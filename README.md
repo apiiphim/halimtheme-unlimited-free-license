@@ -3,6 +3,8 @@
 
 > **Chia sẻ bởi Apii** - [Telegram: @apiionlines](https://t.me/apiionlines)  
 > Nhóm hỗ trợ DEV với 304+ thành viên
+>
+> 
 > Thêm API TMDB vào nhé https://www.themoviedb.org/settings/api
 
 ## 📋 Tổng Quan
